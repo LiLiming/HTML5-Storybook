@@ -4,15 +4,7 @@
 //  Copyright 2012 PBS KIDS Interactive. All Rights Reserved.
 
 PBS.KIDS.storybook.config = {
-	background: {
-		color: "#ababab",
-		url: "images/circles-background.png"
-	},
-	audio: {
-		enabled: true,
-		path: "http://www.williammalone.com/public/",
-		name: "001"	
-	},
+
 	book: {
 		font: "Georgia",
 		startOnPage: 0,
