@@ -5,8 +5,6 @@
 
 PBS.KIDS.storybook.config = {
 	background: {
-		color: "#ababab",
-		url: "images/circles-background.png"
 	},
 	audio: {
 		enabled: true,
